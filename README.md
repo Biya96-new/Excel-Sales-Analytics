@@ -49,10 +49,10 @@ To empower the business with actionable insights, enabling continuous monitoring
 - Substantial revenue growth was observed in 2021, with profit margins remaining steady despite rising costs.
 - Profitability varied across regions, offering valuable insights for strategic decision-making.
   
-  ### Purpose of sales analytics:
+### Purpose of sales analytics:
   To assess financial health, guide strategic planning, and support transparent communication with stakeholders.
   
-  ### Role of reports:
+### Role of reports:
  - Ensure financial planning is aligned with organizational goals.
  - Strengthen investor and stakeholder confidence in business performance.
 
