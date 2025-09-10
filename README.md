@@ -4,9 +4,9 @@
 - **Project objective:** 
 
 
-    **1.** Create a [Customer Net Sales Performance Report](Customer_net_sales_performance.pdf)
+    **1.** Create a [customer net sales performance report](Customer_net_sales_performance.pdf)
 
-    **2.** Conduct a comprehensive comparison between [Market Performance vs Target](market_perfomace_vs_target.pdf)
+    **2.** Conduct a comprehensive comparison between [market performance vs target](market_perfomace_vs_target.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
