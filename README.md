@@ -1,56 +1,60 @@
 # AtliQ Hardware Report :
 
 ## Introduction:
-Atliq Hardware offers a broad selection of products, including personal computers, printers, and accessories.
-By manufacturing its own products and partnering with major retailers like Croma and Best Buy, along with online
-platforms such as Flipkart and Amazon, the company ensures its products are readily available to consumers.
+AtliQ Hardware manufactures and sells a diverse range of products, including personal computers, printers, and accessories. 
+The company distributes its products through leading retail partners such as Croma and Best Buy, as well as online platforms 
+like Flipkart and Amazon. These channels ensure that AtliQ products are widely available and easily accessible to customers.
 
 ## Problem Statement:
-To build interactive dashboards for Atliq Hardware that analyze sales and financial metrics,
-supporting data-driven insights and strategic business planning.
+To design and develop interactive dashboards for AtliQ Hardware that provide deep insights into sales and financial performance, 
+enabling data-driven decision-making and strategic business planning.
 
 ## Sales Analysis:
   
-
   ### Objectives:
-  - Customer Performance Report: analyse the completele sales performace by customeres acroos the years.
-    Helping the business identifiey the customers which contributed for the grwoth interms of sales
-  - Market Performance vs Target: To analyse the market performance with respect to the sales target and provide insights into the 
-    sucess of sales strategy.
-  - Division Level Sales Report: Analysed how the sales performace was across verious divisions during the yaer 2020 and 2021
-  - New Products: Checked how the sales for newly listed products by Atliq Hardware occured
-  - Top 5 countries: To analyse the top countries performing with respect to sales
+  - Customer Performance Report: Track customer-level sales performance across multiple years to identify high-value customers contributing to revenue growth.
+  - Market Performance vs Target: Compare actual performance against sales targets to measure the effectiveness of sales strategies.
+  - Division Level Sales Report: Assess sales performance across different business divisions for 2020 and 2021.
+  - New Products:Monitor sales trends for newly launched AtliQ products.
+  - Top 5 countries: Highlight the countries generating the highest sales revenue.
 
  ### Key Insights:
- - Revenue increased from $87.5million in 2019 to $598.9million in 2020.
- - Every country experienced a increase in market performance except for a few countries like Newzealand, Norway and Austria.
- - P & A division showed a significant improvement in the sales that is $105.2M in 2020 to $338.4M in 2021,which is almost three increase.
-   followed by the PC division
- - out of all the new products introduced by AtliQ hardware "AQ Qwerty" (22M) was performing exceptionally well
-   followed by "AQ Trigger"(20.7M) and "AQ Gen Y"(19.5M).
- - Among the top 5 countries India was laeding the sales by (161.3M) followed by USA (87.8M)
+ - Revenue surged from $87.5M in 2019 to $598.9M in 2020.
+ - Most countries experienced positive sales growth, with exceptions including New Zealand, Norway, and Austria.
+ - The P&A division achieved significant growth, increasing from $105.2M in 2020 to $338.4M in 2021, nearly tripling revenue. The PC division followed closely.
+ - Among new products, AQ Qwerty ($22M) led sales, followed by AQ Trigger ($20.7M) and AQ Gen Y ($19.5M).
+ - India ranked first among the top-performing countries with $161.3M in sales, followed by the USA with $87.8M.
 
 ### Purpose of sales analytics:
-Empower businesses to monitor and evaluate their sales activities and performance.
+To empower the business with actionable insights, enabling continuous monitoring, performance evaluation, and optimization of sales activities.
 
 ### Role of reports:
-Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- Identify customers eligible for effective discount strategies.
+- Support negotiations with clients by leveraging sales data.
+- Pinpoint expansion opportunities in high-potential international markets.
 
+## Finance Analysis :
 
-## Finance Report :
+  ### Objective:
+  - Yearly Profit and Loss (P&L):Summarize annual financial performance.
 
-- **Project objective:** 
+  - Monthly P&L Comparison: Track monthly financial trends to identify patterns.
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](P&L_by_fiscal_year.pdf) & _[Months](P&L_by_month.pdf)
+  - Market-Specific P&L: Provide detailed financial insights by market.
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](P&L_by_market.pdf) 
+  - Quarterly Gross Margin % by Sub-Zone: Evaluate profitability across geographic zones.
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
-
+ ### Key Insights:
+- Net Sales grew by 204.5% over three years, with cost efficiency sustaining strong gross margins.
+- Substantial revenue growth was observed in 2021, with profit margins remaining steady despite rising costs.
+- Profitability varied across regions, offering valuable insights for strategic decision-making.
+  
+  ### Purpose of sales analytics:
+  To assess financial health, guide strategic planning, and support transparent communication with stakeholders.
+  
+  ### Role of reports:
+ - Ensure financial planning is aligned with organizational goals.
+ - Strengthen investor and stakeholder confidence in business performance.
 
 ## Technical & Soft Skills:
 - [x] Prepared the data using ETL(Extract,Transform,Load) method
@@ -62,6 +66,6 @@ Determine effective customer discounts, facilitate negotiations with consumers, 
 
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Designing user empathetic report.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
