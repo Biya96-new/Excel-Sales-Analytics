@@ -1,12 +1,26 @@
-## Sales Report :
+## AtliQ Hardware Report :
 
+- **Introduction:**
+Atliq Hardware offers a broad selection of products, including personal computers, printers, and accessories.
+By manufacturing its own products and partnering with major retailers like Croma and Best Buy, along with online
+platforms such as Flipkart and Amazon, the company ensures its products are readily available to consumers.
 
-- **Project objective:** 
+- **Problem Statement:**
+To build interactive dashboards for Atliq Hardware that analyze sales and financial metrics,
+supporting data-driven insights and strategic business planning.
 
+- **Sales Analysis:**
+  
 
-    **1.** Create a [customer net sales performance report](Customer_net_sales_performance.pdf)
+    **Objectives:**
+  Customer Performance Report: analyse the completele sales performace by customeres acroos the years.
+  Helping the business identifiey the customers which contributed for the grwoth interms of sales
+  Market Performance vs Target: To analyse the market performance with respect to the sales target and provide insights into the 
+ sucess of sales strategy.
+Division Level Sales Report: Analysed how the sales performace was across verious divisions during the yaer 2020 and 2021
+New Products: Checked how the sales for newly listed products by Atliq Hardware occured
+Top 5 countries: To analyse the top countries performing with respect to sales
 
-    **2.** Conduct a comprehensive comparison between [market performance vs target](market_perfomace_vs_target.pdf)
 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
