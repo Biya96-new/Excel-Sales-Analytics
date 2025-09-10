@@ -69,3 +69,17 @@ To empower the business with actionable insights, enabling continuous monitoring
 - [x]	Designing user empathetic report.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+## Reports:
+
+- [Customer Net Sales Performance](Customer_net_sales_performance.pdf)
+- [GM% by Quarters (Sub Zone)](GM%_by_quarters(sub_zone).pdf)
+- [P&L by Fiscal Year](P&L_by_fiscal_year.pdf)
+- [P&L by Market](P&L_by_market.pdf)
+- [P&L by Month](P&L_by_month.pdf)
+- [Division Level Report](division_level_report.pdf)
+- [Market Performance vs Target](market_performace_vs_target.pdf)
+- [New Products 2021](new_products_2021.pdf)
+- [Top 10 Products](top_10_products.pdf)
+- [Top 5 Countries 2021](top_5_country_2021.pdf)
+
