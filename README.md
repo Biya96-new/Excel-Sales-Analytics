@@ -12,24 +12,29 @@ supporting data-driven insights and strategic business planning.
 ## Sales Analysis:
   
 
-  ### Objectives:*
+  ### Objectives:
   - Customer Performance Report: analyse the completele sales performace by customeres acroos the years.
-  - Helping the business identifiey the customers which contributed for the grwoth interms of sales
+    Helping the business identifiey the customers which contributed for the grwoth interms of sales
   - Market Performance vs Target: To analyse the market performance with respect to the sales target and provide insights into the 
     sucess of sales strategy.
   - Division Level Sales Report: Analysed how the sales performace was across verious divisions during the yaer 2020 and 2021
   - New Products: Checked how the sales for newly listed products by Atliq Hardware occured
   - Top 5 countries: To analyse the top countries performing with respect to sales
 
+ ### Key Insights:
+ - Revenue increased from $87.5million in 2019 to $598.9million in 2020.
+ - Every country experienced a increase in market performance except for a few countries like Newzealand, Norway and Austria.
+ - P & A division showed a significant improvement in the sales that is $105.2M in 2020 to $338.4M in 2021,which is almost three increase.
+   followed by the PC division
+ - out of all the new products introduced by AtliQ hardware "AQ Qwerty" (22M) was performing exceptionally well
+   followed by "AQ Trigger"(20.7M) and "AQ Gen Y"(19.5M).
+ - Among the top 5 countries India was laeding the sales by (161.3M) followed by USA (87.8M)
 
+### Purpose of sales analytics:
+Empower businesses to monitor and evaluate their sales activities and performance.
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
-
-- **Importance of analyzing sales data:** 
-- Identify sales patterns and track key performance indicators (KPIs).
-- Comparing market performance against sales targets to find what's working and where there are opportunities.
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+### Role of reports:
+Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
 ## Finance Report :
